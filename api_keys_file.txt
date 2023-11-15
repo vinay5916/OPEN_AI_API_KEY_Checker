@@ -2,9 +2,6 @@ Incldue your API keys in this file or you can pass your custom file as an argume
 
 Make sure that the API keys are seperated with a new line for each. (/n)
 
-P.S: OPEN AI might implement Rate_limiting on the completions end-point (refer the bash file), then this tool might not work.
-
-
 
 Open contrbutions are always Encouraged.
 Thanks.
