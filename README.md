@@ -3,7 +3,7 @@
 **Disclaimer: OpenAI API Key Checker**
 
 This tool, the OpenAI API Key Checker, is created and provided solely for educational and informational purposes.
-This is designed to help users understand and experiment with OpenAI API key verification mechanisms.
+This is designed to help users understand and experiment with OpenAI API key verification mechanisms, as this checks whether the particular API keys are valid.
 #⚠️⚠️⚠️
 
 **📗Usage Guidelines:**
@@ -21,3 +21,7 @@ This is designed to help users understand and experiment with OpenAI API key ver
 - ☑️ **Use at Your Own Risk:** Use of this tool is at the user's own risk. The owner of the tool is not responsible for any legal consequences, damages, or liabilities that may arise from the use of this tool.
 
 **P.S:** OPEN AI might implement Rate_limiting on the completions end-point (refer the bash file), then this tool might not work.
+
+**Usage:**
+
+- 1. type `https://github.com/vinay5916/OPEN_AI_API_KEY_Checker.git`
