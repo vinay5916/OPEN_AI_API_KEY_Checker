@@ -1,5 +1,6 @@
 ⚠️⚠️⚠️
 ===============
+
 **Disclaimer: OpenAI API Key Checker**
 
 This tool, the OpenAI API Key Checker, is created and provided solely for educational and informational purposes.
