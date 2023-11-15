@@ -1,10 +1,10 @@
-⚠️⚠️⚠️
+#⚠️⚠️⚠️
 
 **Disclaimer: OpenAI API Key Checker**
 
-This tool, the OpenAI API Key Checker, is created and provided solely for educational and informational purposes. The tool is designed to help users understand and experiment with OpenAI API key verification mechanisms.
-
-⚠️⚠️⚠️
+This tool, the OpenAI API Key Checker, is created and provided solely for educational and informational purposes.
+This is designed to help users understand and experiment with OpenAI API key verification mechanisms.
+#⚠️⚠️⚠️
 
 **📗Usage Guidelines:**
 
