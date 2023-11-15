@@ -22,8 +22,6 @@ OpenAI API Key Checker
 
 > ☑️ **Use at Your Own Risk:** Use of this tool is at the user's own risk. The owner of the tool is not responsible for any legal consequences, damages, or liabilities that may arise from the use of this tool.
 
-**P.S:** OPEN AI might implement Rate_limiting on the completions end-point (refer the bash file), then this tool might not work.
-
 **Usage:**
 
   1. Clone this repo: `https://github.com/vinay5916/OPEN_AI_API_KEY_Checker.git` .
@@ -35,3 +33,6 @@ This will check the API keys provided in the input file and return if they are a
 
 Additional: You can redirect this output to another file with grep and stdout.
 `./openai_api_key_tester.sh "<api_keys_file.txt>" | grep "success" > active_keys.txt`
+
+**P.S:** OPEN AI might implement Rate_limiting on the completions end-point (refer the bash file), then this tool might not work.
+
