@@ -8,7 +8,7 @@ This tool, the OpenAI API Key Checker, is created and provided solely for educat
 This is designed to help users understand and experiment with OpenAI API key verification mechanisms, as this checks whether the particular API keys are valid.
 
 
-##**📗Usage Guidelines:**
+#**📗Usage Guidelines:**
 
 - ☑️ **Educational Purposes Only:** This tool should be used exclusively for educational purposes to learn and explore the functioning of OpenAI API key authentication.
 
