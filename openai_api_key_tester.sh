@@ -37,3 +37,5 @@ while IFS= read -r api_key; do
         fi
     fi
 done < "$api_keys_file"
+
+#EOF
