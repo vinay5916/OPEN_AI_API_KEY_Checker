@@ -24,7 +24,7 @@ OpenAI API Key Checker
 
 **Usage:**
 
-  1. Clone this repo: `https://github.com/vinay5916/OPEN_AI_API_KEY_Checker.git` .
+  1. Clone this repo: `(https://github.com/vinay5916/OPEN_AI_API_KEY_Checker.git)` .
   1. Now, type `cd OPEN_AI_API_KEY_Checker` .
   1. Give permissions for the file to make it executavle: `chmod +x openai_api_key_tester.sh` .
   1. Run the file by typing `./openai_api_key_tester.sh <api_keys_file.txt>` or `bash openai_api_key_tester.sh <api_keys_file.txt>` and press enter.
@@ -33,6 +33,8 @@ This will check the API keys provided in the input file and return if they are a
 
 Additional: You can redirect this output to another file with grep and stdout.
 `./openai_api_key_tester.sh "<api_keys_file.txt>" | grep "success" > active_keys.txt`
+
+>Open contributions are always encouraged.
 
 **P.S:** OPEN AI might implement Rate_limiting on the completions end-point (refer the bash file), then this tool might not work.
 
