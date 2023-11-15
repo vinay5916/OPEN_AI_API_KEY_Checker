@@ -1,7 +1,0 @@
-Incldue your API keys in this file or you can pass your custom file as an argument.
-
-Make sure that the API keys are seperated with a new line for each. (/n)
-
-
-Open contrbutions are always Encouraged.
-Thanks.
