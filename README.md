@@ -25,7 +25,7 @@ OpenAI API Key Checker
 **Usage:**
 
   1. Clone this repo: `(https://github.com/vinay5916/OPEN_AI_API_KEY_Checker.git)` .
-  1. Now, type `cd OPEN_AI_API_KEY_Checker` .
+  1. Now, type `cd OPEN_AI_API_KEY_Checker` to change the directory.
   1. Give permissions for the file to make it executavle: `chmod +x openai_api_key_tester.sh` .
   1. Run the file by typing `./openai_api_key_checker.sh <api_keys_file.txt>` or `bash openai_api_key_checker.sh <api_keys_file.txt>` and press enter.
 
