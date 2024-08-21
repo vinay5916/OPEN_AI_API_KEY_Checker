@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-# Input file containing API keys (one key per line)
+# Input file containing API keys (one key per line.)
 api_keys_file="$1"
 
 # Check if the file exists
